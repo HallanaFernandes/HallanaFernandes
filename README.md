@@ -23,15 +23,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<div align="center" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=HallanaFernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/HallanaFernandes/HallanaFernandes/output/snake.svg" alt="Snake animation" />
-
-###
