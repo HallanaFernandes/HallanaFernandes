@@ -1,14 +1,13 @@
 <p align="left">👋  Olá! Me chamo Hallana.<br><br>- Atualmente estou trabalhando na área de contabilidade<br>- Estudante de Data science</p>
 
-###
-
-<div align="left">
-  <a href="http://linkedin.com/in/hallana-fernandes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+Graduanda em ciências contábeis, com mais de dois anos de experiência na área e iniciante nos estudos de Data Science, concententrando-me no uso de python, entretanto, explorando conceitos de SQL, Power bi e estatistica durante essa jornada.
+  
+</details>
 
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
