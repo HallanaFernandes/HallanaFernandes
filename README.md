@@ -1,4 +1,4 @@
-<p align="left">👋  **Olá! Me chamo Hallana.<br><br>- Atualmente estou trabalhando na área de contabilidade** <br>- Estudante de Data science</p>
+<p align="left">👋  Olá! Me chamo Hallana.<br><br>- Atualmente estou trabalhando na área de contabilidade<br>- Estudante de Data science</p>
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
