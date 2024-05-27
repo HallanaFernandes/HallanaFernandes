@@ -2,7 +2,7 @@
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
-Graduanda em ciências contábeis, com mais de dois anos de experiência na área e iniciante nos estudos de Data Science, concententrando-me no uso de python, entretanto, explorando conceitos de SQL, Power bi e estatistica durante essa jornada.
+Graduanda em ciências contábeis, com mais de dois anos de experiência na área, decidi me aventurar na área de dados, há aproximadamente um ano. Essa decisão foi motivada pelo crescimento exponencial do mercado de dado nos útimos anos e também pelo fato de ter conhecimentos em disciplinas de contabilidade como estatistica, custos, análise de indicadores e demonstrações fincanceiras, que também é muito utilizada no universo de análise de dados. Acredito que essa combinação me permite ampliar minhas habilidades profissionais de forma significativa. 
   
 </details>
 
